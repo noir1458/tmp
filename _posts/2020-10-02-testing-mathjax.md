@@ -1,14 +1,10 @@
 ---
 layout: post
-title: 테스트
-tags:
-- jekyll
-toc:  true
+title: Testing MathJax
+tags: mathjax
 math: true
-date: 2023-01-27 19:00 +0800
+date: 2020-10-02 15:32 +0800
 ---
-## 1
-
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
 An inline math: \\\(E=mc^2\\\).
@@ -19,7 +15,3 @@ $$
 i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
 \frac{\partial^2 \Psi}{\partial x^2} + V \Psi
 $$
-
-## 2
-
-test
